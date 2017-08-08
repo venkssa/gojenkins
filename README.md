@@ -9,10 +9,7 @@ This is a API client of Jenkins API written in Go.
 Usage
 -----
 
-.. code-block:: go
-
 	client := gojenkins.NewClient("http://myjenkins.com", "basicauth_user", "basicauth_apikey")
-
 
 -------
 GoDoc Example
